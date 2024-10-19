@@ -9,3 +9,6 @@ Finally, we’ll plot the learning curve of the algorithm and display the learne
 ![Screenshot 2024-10-12 163047](https://github.com/user-attachments/assets/d7a25235-54d8-402f-9a56-8f26334e5c44)
 
 The Walker2d environment
+
+![image](https://github.com/user-attachments/assets/489f0842-cf40-4c3c-9d0e-3718f91dd2bf)
+
